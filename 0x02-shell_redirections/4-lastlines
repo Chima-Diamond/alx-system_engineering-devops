@@ -1,1 +1,2 @@
-shg
+#!/bin/bash
+tail /etc/passwd
